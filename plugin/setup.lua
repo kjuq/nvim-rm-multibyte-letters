@@ -1,1 +1,1 @@
-require("rm-multibyte-letters")
+require('rm-multibyte-letters').setup()
